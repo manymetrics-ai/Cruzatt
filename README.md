@@ -1,4 +1,4 @@
-[![cover](https://github.com///blob/main/fcover.png)](https://github.com/Cruzatt?tab=repositories)
+[![cover](https://github.com/Cruzatt/Cruzatt/blob/main/cover.png)](https://github.com/Cruzatt?tab=repositories)
 
 <h3 align="center">AI Strategist | AI Architect</h3>
 
