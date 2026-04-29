@@ -86,4 +86,4 @@ AI Strategy consultant and Enterprise Data Architect with ~11 years of experienc
 
 Building and sharing insights on AI, data strategy, and GenAI consulting through:
 
-### **manymetrics.ai**
+<img src="https://img.shields.io/badge/manymetrics.ai-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
