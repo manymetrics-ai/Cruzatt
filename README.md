@@ -74,9 +74,8 @@ AI Strategy consultant and Enterprise Data Architect with ~11 years of experienc
 - 🏅 Credly: https://www.credly.com/users/giancarlo-peralta-cruzatt  
 - 🎵 TikTok: https://www.tiktok.com/@manymetrics  
 - 📸 Instagram: https://www.instagram.com/manymetrics_/  
-- ▶️ YouTube: *(coming soon)*  
-- ➕ Additional Link: *(to be added)*  
-
+- ▶️ YouTube: https://www.youtube.com/@manymetrics
+- 
 ## 📚 Background
 
 - 📌 Associate Member — DAMA  
