@@ -1,4 +1,4 @@
-[![cover](https://github.com/Cruzatt/Cruzatt/blob/main/cover.png)](https://github.com/Cruzatt?tab=repositories)
+[![cover](https://github.com/Cruzatt/Cruzatt/blob/main/coverimage.png)](https://github.com/Cruzatt?tab=repositories)
 
 <h3 align="center">AI Strategist | Enterprise Data Architect</h3>
 <p align="center"><b>Strategic AI Advisory: From Prompt to Product.</b></p>
