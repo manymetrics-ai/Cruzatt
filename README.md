@@ -7,6 +7,9 @@
 <a href="https://www.credly.com/users/giancarlo-peralta-cruzatt"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
 <a href="https://www.instagram.com/manymetrics_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.tiktok.com/@manymetrics"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://www.youtube.com/@manymetrics">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </p>
 
 
